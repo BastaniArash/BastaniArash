@@ -7,7 +7,6 @@ I am a motivated Junior Front-End Developer passionate about creating intuitive 
 - ✉️  You can contact me at [Arash.bastani.73@gmail.com](mailto:Arash.bastani.73@gmail.com)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
-- ⚡  Professional Developer in Javascript and React Based projects
 
 ### Skills
 
