@@ -5,7 +5,7 @@ Mern Stack Developer
 
 ---
 
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+I am a motivated Junior Front-End Developer passionate about creating intuitive and visually appealing web experiences. Proficient in HTML, CSS, and JavaScript, I enjoy tackling challenges and learning new technologies that enhance user interaction. My dedication to detail and problem-solving skills drive me to deliver high-quality work. I thrive in collaborative environments where creativity and teamwork are valued, and I am eager to contribute to projects that push boundaries and deliver exceptional user experiences 👨‍💻
 
 - 🌍  I'm based in Delhi-NCR (India)
 - 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
