@@ -1,15 +1,13 @@
-Hi 🙋‍♂️ My name is Mohammad Amin Saeedi Rad
+Hi 🙋‍♂️ My name is Arash Bastani
 ======
 
-Mern Stack Developer
+Front-End Developer
 
 ---
 
 I am a motivated Junior Front-End Developer passionate about creating intuitive and visually appealing web experiences. Proficient in HTML, CSS, and JavaScript, I enjoy tackling challenges and learning new technologies that enhance user interaction. My dedication to detail and problem-solving skills drive me to deliver high-quality work. I thrive in collaborative environments where creativity and teamwork are valued, and I am eager to contribute to projects that push boundaries and deliver exceptional user experiences 👨‍💻
 
-- 🌍  I'm based in Delhi-NCR (India)
-- 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
-- ✉️  You can contact me at [ce01010101it@@gmail.com](mailto:ce01010101it@gmail.com)
+- ✉️  You can contact me at [ce01010101it@@gmail.com](mailto:Arash.Bastani.73@gmail.com)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
