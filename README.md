@@ -4,6 +4,21 @@ Hi 🙋‍♂️ My name is Arash Bastani
 
 I am a motivated Junior Front-End Developer passionate about creating intuitive and visually appealing web experiences. Proficient in HTML, CSS, and JavaScript and React, I enjoy tackling challenges and learning new technologies that enhance user interaction. My dedication to detail and problem-solving skills drive me to deliver high-quality work. I thrive in collaborative environments where creativity and teamwork are valued, and I am eager to contribute to projects that push boundaries and deliver exceptional user experiences 👨‍💻
 
+```js
+ const response = {
+  status: 200,
+  data: {
+    fullName: "Arash Bastani",
+    birthDay: "1994 May 17, Tuesday",
+    hobbies: ["podcast", "book", "space", "series", "web scraping"],
+    languages: [ ".JavaScript(3x)", ".HTML(2x)", ".CSS(1x)"],
+    Frameworks & Libraries: [ ".React.js(3x)", ".Vue.js(2x)", "Next.js(1x)"],
+    quote: "Do something that makes people's lives easier.",
+    currently: LEARNING_TECH
+  },
+}; 
+```
+
 - ✉️  You can contact me at [Arash.bastani.73@gmail.com](mailto:Arash.bastani.73@gmail.com)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
