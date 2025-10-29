@@ -12,9 +12,9 @@ I am a motivated Junior Front-End Developer passionate about creating intuitive 
     birthDay: "1994 May 17, Tuesday",
     hobbies: ["podcast", "book", "space", "series", "web scraping"],
     languages: [ ".JavaScript(3x)", ".HTML(2x)", ".CSS(1x)"],
-    Frameworks & Libraries: [ ".React.js(3x)", ".Vue.js(2x)", "Next.js(1x)"],
+    Frameworks: [ ".React.js(3x)", ".Vue.js(2x)", "Next.js(1x)"],
     quote: "Do something that makes people's lives easier.",
-    currently: LEARNING_TECH
+    currently: LEARNING_MORE,
   },
 }; 
 ```
