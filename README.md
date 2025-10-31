@@ -2,7 +2,11 @@ Hi 🙋‍♂️ My name is Arash Bastani
 ======
 
 
-I am a motivated Junior Front-End Developer passionate about creating intuitive and visually appealing web experiences. Proficient in HTML, CSS, and JavaScript and React, I enjoy tackling challenges and learning new technologies that enhance user interaction. My dedication to detail and problem-solving skills drive me to deliver high-quality work. I thrive in collaborative environments where creativity and teamwork are valued, and I am eager to contribute to projects that push boundaries and deliver exceptional user experiences 👨‍💻
+I'm a front-end developer with a real passion for building modern and responsive web apps.
+With over 2 years of hands-on experience, I've worked with React, JavaScript, Tailwind CSS, HTML, and CSS to create clean, user-friendly interfaces that look great and work smoothly.
+I really enjoy solving problems, paying attention to the little details, and turning ideas into real products.
+I do my best work in collaborative teams where creativity and communication matter, and I love being part of projects that challenge me and deliver awesome user experiences.
+I'm always open to new opportunities and learning experiences.👨‍💻
 
 ```js
  const response = {
