@@ -17,7 +17,7 @@ I'm always open to new opportunities and learning experiences.👨‍💻
     hobbies: ["podcast", "book", "space", "series", "web scraping"],
     languages: [ ".JavaScript(3x)", ".HTML(2x)", ".CSS(1x)"],
     Frameworks: [ ".React.js(3x)", ".Vue.js(2x)", "Next.js(1x)"],
-    quote: "Do something that makes people's lives easier.",
+    quote: "Create something that makes people's life easier.",
     currently: LEARNING_MORE,
   },
 }; 
